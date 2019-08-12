@@ -1,4 +1,4 @@
-# Facebook_friend_recommendation
+# Facebook friend recommendation
 ![fb friend](https://user-images.githubusercontent.com/25454660/62775569-a6b95c00-bac5-11e9-9587-4e09b5ad49aa.jpg)
 This repository contains the case study of facebook friend recommendation where missing links are predicted using directed social graph
 
